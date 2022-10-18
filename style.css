@@ -13,7 +13,7 @@ img{
 	margin: 20px;
 }
 
-/* Creamos un borde redondeado para las imágenes de la máquina*/
+/* Borde redondeado para las imágenes de la máquina*/
 .frutas{
 	border: 3px solid black;
 	border-radius: 6px;
